@@ -1,8 +1,8 @@
-numpy
-pandas
-tensorflow
-librosa
-scikit-learn
-streamlit
-sounddevice
-scipy
+numpy==1.23.5
+pandas==2.1.0
+tensorflow==2.13.0
+librosa==0.10.0.post2
+scikit-learn==1.3.0
+streamlit==1.25.0
+sounddevice==0.4.6
+scipy==1.11.3
